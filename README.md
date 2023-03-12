@@ -1,7 +1,9 @@
 # covid_SP_data_quality
 
 Disponibilização do script utilizado no desenvolvimento do artigo "Análise da qualidade dos dados públicos referentes à notificação de Síndrome Gripal suspeitos de COVID-19 para o estado de São Paulo", submetido como Trabalho de Conclusão de Curso na Pós-Graduação em Ciência de Dados do Centro Universitário Facens.
+
 Autores: Freitas, Lucas S.  Gregorin, Livia V. Mendonça, Beatriz C. M.
+
 Orientador: Lochter, Johannes V.
 
 
