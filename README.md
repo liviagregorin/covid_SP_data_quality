@@ -6,6 +6,7 @@ Autores: Freitas, Lucas S.  Gregorin, Livia V. Mendonça, Beatriz C. M.
 
 Orientador: Lochter, Johannes V.
 
+Arquivos disponibilizados no formato Jupyter Notebook e HTML.
 
 Datasets para download: https://opendatasus.saude.gov.br/dataset/notificacoes-de-sindrome-gripal-leve-2022/resource/0a104720-64bd-432d-8658-08bc81c4fe7f
 
